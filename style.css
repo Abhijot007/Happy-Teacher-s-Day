@@ -1,0 +1,203 @@
+#img {
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+}
+body {
+    text-align: center;
+}
+#principal {
+    color: white;
+    margin: 0;
+    width: 100%;
+    height: 600px;
+    background-color: #10E0E0;
+    z-index: 9;
+}
+#principal_2 {
+    background-color: #068C8C;
+    color: white;
+    margin-top: -60px;
+    margin-right: 70px;
+    margin-left: 70px;
+    border-radius: 45px;
+  }
+  .div1 {
+    width: 70px;
+    height: 5px;
+    background-color: white;
+    margin: 8px auto;
+  }
+  .pra {
+    font-family: "Cinzel Decorative";
+    font-weight: 700;
+    color: white;
+  }
+  #science {
+    color: white;
+    margin: 0;
+    width: 100%;
+    height: 600px;
+    background-color: #14E029;
+    z-index: 9;
+}
+#science_2 {
+    background-color: #1B8226;
+    color: white;
+    margin-top: -60px;
+    margin-right: 70px;
+    margin-left: 70px;
+    border-radius: 45px;
+  }
+#img2 {
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+}
+#maths {
+  color: white;
+  margin: 0;
+  width: 100%;
+  height: 600px;
+  background-color: #C015D6;
+  z-index: 9;
+}
+#img3 {
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
+#math_2 {
+  background-color: #610C5C;
+  color: white;
+  margin-top: -60px;
+  margin-right: 70px;
+  margin-left: 70px;
+  border-radius: 45px;
+}
+#english {
+  color: white;
+  margin: 0;
+  width: 100%;
+  height: 600px;
+  background-color: #EBD80C;
+  z-index: 9;
+}
+#english_2 {
+  background-color: #968C21;
+  color: white;
+  margin-top: -60px;
+  margin-right: 70px;
+  margin-left: 70px;
+  border-radius: 45px;
+}
+#img4 {
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
+#sst {
+  color: white;
+  margin: 0;
+  width: 100%;
+  height: 600px;
+  background-color: #ED7B09;
+  z-index: 9;
+}
+#sst_2 {
+  background-color: #995817;
+  color: white;
+  margin-top: -60px;
+  margin-right: 70px;
+  margin-left: 70px;
+  border-radius: 45px;
+}
+#img5 {
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
+#computer {
+  color: white;
+  margin: 0;
+  width: 100%;
+  height: 600px;
+  background-color: #D10A0A;
+  z-index: 9;
+}
+#computer_2 {
+  background-color: #730808;    
+  color: white;
+  margin-top: -60px;
+  margin-right: 70px;
+  margin-left: 70px;
+  border-radius: 45px;
+}
+#img6 {
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
+#img7 {
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
+#img8 {
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
+#img9 {
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
+#hindi_2 {
+  background-color: #590829;    
+  color: white;
+  margin-top: -60px;
+  margin-right: 70px;
+  margin-left: 70px;
+  border-radius: 45px;
+}
+#hindi {
+  color: white;
+  margin: 0;
+  width: 100%;
+  height: 600px;
+  background-color: #CC125D;
+  z-index: 9;
+}
+#punjabi {
+  color: white;
+  margin: 0;
+  width: 100%;
+  height: 600px;
+  background-color: #9AA7AD;
+  z-index: 9;
+}
+#punjabi_2 {
+  background-color: #454C52;    
+  color: white;
+  margin-top: -60px;
+  margin-right: 70px;
+  margin-left: 70px;
+  border-radius: 45px;
+}
+#drawing {
+  color: white;
+  margin: 0;
+  width: 100%;
+  height: 600px;
+  background-color: #38E8B0;
+  z-index: 9;
+}
+#drawing_2 {
+  background-color: #13664C;    
+  color: white;
+  margin-top: -60px;
+  margin-right: 70px;
+  margin-left: 70px;
+  border-radius: 45px;
+}
